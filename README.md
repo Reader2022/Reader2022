@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about different projects and new developments
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email: abn.shahid@hotmail.com
+- 📫 How to reach me 
 
 <!---
 Reader2022/Reader2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
